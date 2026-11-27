@@ -6,6 +6,7 @@
 To design and develop the UML diagrams for a Railway Reservation Management System using Unified Modeling Language (UML) to represent the system's structure, behavior, interactions, and workflow.
 
 # SRS (Procedure):
+```
 1.Identify the requirements of the Railway Reservation Management System.
 2.Identify the actors involved in the system, such as User, Admin, and Payment Gateway.
 3.Draw the Use Case Diagram to represent the interactions between actors and the system.
@@ -15,6 +16,7 @@ To design and develop the UML diagrams for a Railway Reservation Management Syst
 7.Draw the Activity Diagram to represent the workflow of the railway reservation process.
 8.Draw the Package Diagram to organize related system elements into packages.
 9.Verify all diagrams to ensure that they represent the system requirements correctly.
+```
 
 # DIAGRAMS:
 ## Usecase Diagram:
